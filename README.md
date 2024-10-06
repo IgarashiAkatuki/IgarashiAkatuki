@@ -1,11 +1,11 @@
 ## Hi there 👋
-  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgarashiAkatuki)
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgarashiAkatuki)
 <!--
 **IgarashiAkatuki/IgarashiAkatuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgarashiAkatuki)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
