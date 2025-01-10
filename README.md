@@ -2,7 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgarashiAkatuki)
 - 🔭 I’m currently working on nature language processing (NLP)
 - 🌱 I’m currently learning ~~biology and linguistics~~
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you think is interesting =w=!
 - 📫 How to reach me: midsummra@gmail.com 
 <!--
